@@ -1,0 +1,10 @@
+.addtocart{
+    background-color: #262A53;
+    border-radius: 2px;
+    min-width: 100%;
+    border: none;
+}
+.addtocart:hover{
+    background-color: #E28F83;
+    color: #262A53;
+}

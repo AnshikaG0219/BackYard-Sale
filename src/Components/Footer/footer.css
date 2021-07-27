@@ -1,0 +1,12 @@
+.footer{
+    text-align: center;
+    color: #262a53;
+    margin: 8rem 6rem 0.5rem 6rem; 
+    bottom: 0;
+}
+.social{
+    padding-bottom: 1.5rem;
+}
+ul li{
+    list-style: none;
+}

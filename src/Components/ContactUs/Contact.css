@@ -1,0 +1,31 @@
+.block{
+    width: 100%;
+    min-height: 50vh;
+    background-color: #262A53;
+    text-align: center;
+    padding: 7% 15%;
+}
+h1{
+    color: #fff;
+}
+h2{
+    color: #262A53;
+    text-align: center;
+}
+.text-field{
+    border-style: none none solid;
+    border-radius: 0;
+    border-color: #262A53;
+    margin-bottom: 1.5rem;
+}
+.Submit{
+    background-color: #262A53;
+    border-radius: 2px;
+    min-width: 100%;
+    border: none;
+    color: #fff;
+}
+.Submit:hover{
+    background-color: #E28F83;
+    color: #262A53;
+}
