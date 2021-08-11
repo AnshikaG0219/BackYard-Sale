@@ -1,0 +1,35 @@
+.welcome {
+  color: #fff;
+  background-color: #e28f83;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.fixedBg {
+  background-image: url(../assests/aboutus.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.head {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  text-transform: uppercase;
+  width: 50%;
+  margin: 10% auto;
+}
+@media screen and (max-width: 800px)
+{
+    .head{
+        writing-mode: horizontal-tb;
+    }
+}
+.founder {
+  text-align: center;
+  margin: 5%;
+}
+.desc {
+  margin: 2%;
+  line-height: 2rem;
+}

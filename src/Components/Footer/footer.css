@@ -1,12 +1,20 @@
 .footer{
     text-align: center;
-    color: #262a53;
-    margin: 8rem 6rem 0.5rem 6rem; 
+    color: #fff;
+    padding: 4rem 6rem 2rem; 
     bottom: 0;
+    background-color: #262a53;
 }
 .social{
     padding-bottom: 1.5rem;
 }
 ul li{
     list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+ul li a:hover{
+    color: #787a91;
 }

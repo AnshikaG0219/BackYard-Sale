@@ -1,6 +1,6 @@
 import React from 'react'
 import './MainStyle.css'
-import { Button,Col,Image, Row } from 'react-bootstrap'
+import { Button,Col, Row } from 'react-bootstrap'
 import { CssBaseline } from '@material-ui/core'
 import LocalShippingIcon from '@material-ui/icons/LocalShipping';
 import LoyaltyIcon from '@material-ui/icons/Loyalty';

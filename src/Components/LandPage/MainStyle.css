@@ -1,8 +1,9 @@
 .main {
   background-image: linear-gradient(
-    rgba(226, 143, 131, 0.452),
-    rgba(226, 144, 131, 0.452)
-  ),url(../assests/bg2.jpg);
+      rgba(226, 143, 131, 0.452),
+      rgba(226, 144, 131, 0.452)
+    ),
+    url(../assests/bg2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-weight: bold;
@@ -33,30 +34,29 @@
   color: white;
   border: 3px solid #262a53;
 }
-h3{
-    color: #787A91;
-    font-size: 1rem;
-    padding-top: 1rem;
+h3 {
+  color: #787a91;
+  font-size: 1rem;
+  padding-top: 1rem;
 }
 
 /* Features */
-.features{
-    text-align: center;
-    margin: 6rem 3rem;
+.features {
+  text-align: center;
+  margin: 6rem 3rem;
 }
 
-.Fitem{
-    font-size: 1rem;
-    font-weight: normal;
-    color: #262a53;
-    vertical-align: middle;
-    padding-top: 2rem;
+.Fitem {
+  font-size: 1rem;
+  font-weight: normal;
+  color: #262a53;
+  vertical-align: middle;
+  padding-top: 2rem;
 }
-
 
 /* Divider */
-.divider{
-  color: #B2B1B9;
+.divider {
+  color: #b2b1b9;
   border-style: none;
   border-top-style: dotted;
   width: 12%;

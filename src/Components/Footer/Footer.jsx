@@ -22,7 +22,7 @@ export default function Footer() {
           <h4>Contact Us</h4>
           <ul>
             <li>011-12345678</li>
-            <li>query@backyardsale.com</li>
+            <li><a href="mailto:query@backyardsale.com">query@backyardsale.com</a></li>
           </ul>
         </Col>
         <Col lg={4} md={12}  className="social">

@@ -13,7 +13,7 @@ export default function ContactForm() {
         </h3>
       </div>
 
-      <Container style={{ maxWidth: "80%", margin: "5% 10%" }}>
+      <Container style={{ maxWidth: "80%", margin: "5% 10%"}} className="container">
         <h2 style={{ textAlign: "center", color: "#262A53" }}>
           Let's Start a Conversation
         </h2>
